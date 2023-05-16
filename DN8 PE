@@ -1,1 +1,2 @@
-
+git rm -rf DN8 PE
+git ommit -m "delete folder"
